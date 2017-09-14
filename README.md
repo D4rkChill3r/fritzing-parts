@@ -1,3 +1,11 @@
+   * [esp8266-fritzing-parts](#esp8266-fritzing-parts)
+      * [Available parts](#available-parts)
+         * [NodeMCU V1.0](#nodemcu-v10)
+         * [OLED SSD1306 0.96" 128x64 displays](#oled-ssd1306-096-128x64-displays)
+         * [OLED SSD1306 0.91" 128x32 display](#oled-ssd1306-091-128x32-display)
+         * [OLED SSH1106 1.3" 128x64 display](#oled-ssh1106-13-128x64-display)
+         * [MH-Z19 CO2 sensor](#mh-z19-co2-sensor)
+
 # esp8266-fritzing-parts
 
 This repository contains parts based on the ESP8266 for the Fritzing application. Just download the .fzpz file and drag it into fritzing
