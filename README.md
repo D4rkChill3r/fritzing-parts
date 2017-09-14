@@ -30,3 +30,9 @@ Default they show only every other line, so they remain compatible with the exis
 The larger 1.3" OLED monochrome displays use the SSH1106 chip.
 
 ![OLED_SSH1106_128x64_breadboard](/OLED_SSH1106_I2C_128x64/1.3_inch_SSH1106_OLED_128x64_Breadboard.png) ![OLED_SSH1106_128x64_silkscreen](/OLED_SSH1106_I2C_128x64/1.3_inch_SSH1106_OLED_128x64_silkscreen.png)
+
+### MH-Z19 CO2 sensor
+The [MH-Z19](http://www.winsen-sensor.com/products/ndir-co2-sensor/mh-z19.html) and the [MH-Z19B](http://www.winsen-sensor.com/products/ndir-co2-sensor/mh-z19b.html) are quite affordable CO2 sensors.
+These are pin-out compatible (not software compatible) with the [Senseair S8 CO2 sensor](http://www.senseair.com/products/oem-modules/senseair-s8/) The S8 has its air intake at the bottom. For this purpose the air intake opening of the S8 sensor is also drawn in the silk screen to make it easier to add an opening in the PCB.
+
+![MH-Z19_breadboard](MH-Z19_CO2/MH-Z19_CO2_breadboard.png) ![MH-Z19_silkscreen](MH-Z19_CO2/MH-Z19_CO2_silkscreen.png)
