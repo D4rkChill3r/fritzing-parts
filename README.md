@@ -25,7 +25,7 @@ There are numerous boards for the ESP32.
 This is one of them.
 
    * [Author of the board](https://github.com/Nicholas3388/LuaNode)
-   * Available on [Banggood](https://www.banggood.com/ESP32-Development-Board-WiFiBluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-p-1109512.html)
+   * Available on [Banggood](https://www.banggood.com/ESP32-Development-Board-WiFiBluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-p-1109512.html?p=1712161907732201507C) (affiliate link)
    * [Datasheet ESP32](http://espressif.com/sites/default/files/documentation/esp-wroom-32_datasheet_en.pdf)
 
 ![LuaNode32 breadboard](/LuaNode32_ESP32/LuaNode32_ESP32_Breadboard_screenshot.png)
@@ -36,6 +36,8 @@ This is one of them.
 ### OLED SSD1306 0.96" 128x64 displays
 There are two versions of these displays, with only the GND and VCC swapped.
 
+   * GND-VCC-SCL-SDA version available on [Banggood](https://www.banggood.com/5Pcs-0_96-Inch-4Pin-White-IIC-I2C-OLED-Display-Module-For-Arduino-p-971295.html?p=1712161907732201507C) (affiliate link)
+
 ![OLED_SSD1306_GND_VCC_breadboard](/OLED_SSD1306_I2C_128x64/0.96_inch_SSD1306_OLED_128x64__GND_VCC_breadboard.png) ![OLED_SSD1306_VCC_GND_breadboard](/OLED_SSD1306_I2C_128x64/0.96_inch_SSD1306_OLED_128x64__VCC_GND_breadboard.png)
 
 ![OLED_SSD1306_GND_VCC_silkscreen](OLED_SSD1306_I2C_128x64/0.96_inch_SSD1306_OLED_128x64__GND_VCC_silkscreen.png) ![OLED_SSD1306_VCC_GND_silkscreen](OLED_SSD1306_I2C_128x64/0.96_inch_SSD1306_OLED_128x64__VCC_GND_silkscreen.png) 
@@ -45,11 +47,15 @@ The 0.91" displays are quite small and only show 32 pixels height.
 
 These display only every other line, so they remain compatible with the existing libraries for the 128x64 displays.
 
+   * Available on Banggood [Blue](https://www.banggood.com/0_91-Inch-128x32-IIC-I2C-Blue-OLED-LCD-Display-DIY-Oled-Module-SSD1306-Driver-IC-DC-3_3V-5V-p-1140506.html?p=1712161907732201507C) [white](https://www.banggood.com/0_91-Inch-OLED-Display-Module-12832-LCD-Screen-IIC-I2C-Serial-Port-For-Arduino-p-1145084.html?p=1712161907732201507C) (affiliated links)
+
 ![OLED_SSD1306_128x32_breadboard](/OLED_SSD1306_I2C_128x32/0.91_inch_SSD1306_OLED_128x32_Breadboard.png)
 ![OLED_SSD1306_128x32_silkscreen](/OLED_SSD1306_I2C_128x32/0.91_inch_SSD1306_OLED_128x32_silkscreen.png)
 
 ### OLED SSH1106 1.3" 128x64 display
 The larger 1.3" OLED monochrome displays use the SSH1106 chip.
+
+   * Available on [Banggood](https://www.banggood.com/1_3-Inch-4Pin-White-OLED-LCD-Display-12864-IIC-I2C-Interface-Module-For-Arduino-p-1067874.html?p=1712161907732201507C) (affiliate link)
 
 ![OLED_SSH1106_128x64_breadboard](/OLED_SSH1106_I2C_128x64/1.3_inch_SSH1106_OLED_128x64_Breadboard.png) ![OLED_SSH1106_128x64_silkscreen](/OLED_SSH1106_I2C_128x64/1.3_inch_SSH1106_OLED_128x64_silkscreen.png)
 
@@ -61,4 +67,7 @@ These are pin-out compatible (not software compatible) with the [Senseair S8 CO2
 The S8 has its air intake at the bottom. 
 For this purpose the air intake opening of the S8 sensor is also drawn in the silk screen to make it easier to add an opening in the PCB.
 
+   * MH-Z19 CO2 sensor on [Banggood](https://www.banggood.com/MH-Z19-0-5000PPM-Infrared-CO2-Sensor-For-CO2-Indoor-Air-Quality-Monitor-UARTPWM-p-1094463.html?p=1712161907732201507C) (affiliate link)
+   * Senseair S8 CO2 sensor available on [AliExpress](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20170920113528&SearchText=senseair+s8)
+   
 ![MH-Z19_breadboard](MH-Z19_CO2/MH-Z19_CO2_breadboard.png) ![MH-Z19_silkscreen](MH-Z19_CO2/MH-Z19_CO2_silkscreen.png)
