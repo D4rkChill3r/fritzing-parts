@@ -6,6 +6,7 @@ Where applicable, both the breadboard and the silkscreen are designed.
 
 ## Available parts
    * [NodeMCU V1.0](#nodemcu-v10)
+   * [LuaNode32 ESP32](#luanode32-esp32)
    * [OLED SSD1306 0.96" 128x64 displays](#oled-ssd1306-096-128x64-displays)
    * [OLED SSD1306 0.91" 128x32 display](#oled-ssd1306-091-128x32-display)
    * [OLED SSH1106 1.3" 128x64 display](#oled-ssh1106-13-128x64-display)
@@ -15,9 +16,22 @@ Where applicable, both the breadboard and the silkscreen are designed.
 [NodeMCU V1.0](https://github.com/squix78/esp8266-fritzing-parts/blob/master/nodemcu-v1.0/NodeMCUV1.0.fzpz): this is the second incarnation of the ESP8266 based dev board. You can find it on [AliExpress]( http://s.click.aliexpress.com/e/QbUnuvrVV) 
 
 ![NodeMCUV1.0_breadboard](/nodemcu-v1.0/NodeMCUV1.0.png)
-![NodeMCUV1.0_silkscreen](nodemcu-v1.0/NodeMCU_v1.0_silkscreen.png)
+![NodeMCUV1.0_silkscreen](/nodemcu-v1.0/NodeMCU_v1.0_silkscreen.png)
 
 Read more about it [on my blog](http://blog.squix.ch/2015/05/esp8266-nodemcu-v10-part-created-for.html).
+
+### LuaNode32 ESP32
+There are numerous boards for the ESP32.
+This is one of them.
+
+   * [Author of the board](https://github.com/Nicholas3388/LuaNode)
+   * Available on [Banggood](https://www.banggood.com/ESP32-Development-Board-WiFiBluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-p-1109512.html)
+   * [Datasheet ESP32](http://espressif.com/sites/default/files/documentation/esp-wroom-32_datasheet_en.pdf)
+
+![LuaNode32 breadboard](/LuaNode32_ESP32/LuaNode32_ESP32_Breadboard_screenshot.png)
+![LuaNode32 silkscreen](/LuaNode32_ESP32/LuaNode32_ESP32_PCB_screenshot.png)
+
+   
 
 ### OLED SSD1306 0.96" 128x64 displays
 There are two versions of these displays, with only the GND and VCC swapped.
