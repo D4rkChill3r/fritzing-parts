@@ -5,7 +5,14 @@ This repository contains parts based on the ESP8266 for the Fritzing application
 Where applicable, both the breadboard and the silkscreen are designed.
 
 ## Available parts
-### [NodeMCU V1.0](https://github.com/squix78/esp8266-fritzing-parts/blob/master/nodemcu-v1.0/NodeMCUV1.0.fzpz): this is the second incarnation of the ESP8266 based dev board. You can find it on [AliExpress]( http://s.click.aliexpress.com/e/QbUnuvrVV) 
+   * [NodeMCU V1.0](#nodemcu-v10)
+   * [OLED SSD1306 0.96" 128x64 displays](#oled-ssd1306-096-128x64-displays)
+   * [OLED SSD1306 0.91" 128x32 display](#oled-ssd1306-091-128x32-display)
+   * [OLED SSH1106 1.3" 128x64 display](#oled-ssh1106-13-128x64-display)
+   * [MH-Z19 CO2 sensor](#mh-z19-co2-sensor)
+
+### NodeMCU V1.0
+[NodeMCU V1.0](https://github.com/squix78/esp8266-fritzing-parts/blob/master/nodemcu-v1.0/NodeMCUV1.0.fzpz): this is the second incarnation of the ESP8266 based dev board. You can find it on [AliExpress]( http://s.click.aliexpress.com/e/QbUnuvrVV) 
 
 ![NodeMCUV1.0_breadboard](/nodemcu-v1.0/NodeMCUV1.0.png)
 ![NodeMCUV1.0_silkscreen](nodemcu-v1.0/NodeMCU_v1.0_silkscreen.png)
@@ -21,7 +28,8 @@ There are two versions of these displays, with only the GND and VCC swapped.
 
 ### OLED SSD1306 0.91" 128x32 display
 The 0.91" displays are quite small and only show 32 pixels height.
-Default they show only every other line, so they remain compatible with the existing libraries.
+
+These display only every other line, so they remain compatible with the existing libraries for the 128x64 displays.
 
 ![OLED_SSD1306_128x32_breadboard](/OLED_SSD1306_I2C_128x32/0.91_inch_SSD1306_OLED_128x32_Breadboard.png)
 ![OLED_SSD1306_128x32_silkscreen](/OLED_SSD1306_I2C_128x32/0.91_inch_SSD1306_OLED_128x32_silkscreen.png)
@@ -33,6 +41,10 @@ The larger 1.3" OLED monochrome displays use the SSH1106 chip.
 
 ### MH-Z19 CO2 sensor
 The [MH-Z19](http://www.winsen-sensor.com/products/ndir-co2-sensor/mh-z19.html) and the [MH-Z19B](http://www.winsen-sensor.com/products/ndir-co2-sensor/mh-z19b.html) are quite affordable CO2 sensors.
-These are pin-out compatible (not software compatible) with the [Senseair S8 CO2 sensor](http://www.senseair.com/products/oem-modules/senseair-s8/) The S8 has its air intake at the bottom. For this purpose the air intake opening of the S8 sensor is also drawn in the silk screen to make it easier to add an opening in the PCB.
+
+These are pin-out compatible (not software compatible) with the [Senseair S8 CO2 sensor](http://www.senseair.com/products/oem-modules/senseair-s8/) 
+
+The S8 has its air intake at the bottom. 
+For this purpose the air intake opening of the S8 sensor is also drawn in the silk screen to make it easier to add an opening in the PCB.
 
 ![MH-Z19_breadboard](MH-Z19_CO2/MH-Z19_CO2_breadboard.png) ![MH-Z19_silkscreen](MH-Z19_CO2/MH-Z19_CO2_silkscreen.png)
