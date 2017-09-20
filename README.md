@@ -47,7 +47,7 @@ The 0.91" displays are quite small and only show 32 pixels height.
 
 These display only every other line, so they remain compatible with the existing libraries for the 128x64 displays.
 
-   * Available on Banggood [Blue](https://www.banggood.com/0_91-Inch-128x32-IIC-I2C-Blue-OLED-LCD-Display-DIY-Oled-Module-SSD1306-Driver-IC-DC-3_3V-5V-p-1140506.html?p=1712161907732201507C) [white](https://www.banggood.com/0_91-Inch-OLED-Display-Module-12832-LCD-Screen-IIC-I2C-Serial-Port-For-Arduino-p-1145084.html?p=1712161907732201507C) (affiliated links)
+   * Available on Banggood [Blue](https://www.banggood.com/0_91-Inch-128x32-IIC-I2C-Blue-OLED-LCD-Display-DIY-Oled-Module-SSD1306-Driver-IC-DC-3_3V-5V-p-1140506.html?p=1712161907732201507C) or [White](https://www.banggood.com/0_91-Inch-OLED-Display-Module-12832-LCD-Screen-IIC-I2C-Serial-Port-For-Arduino-p-1145084.html?p=1712161907732201507C) (affiliated links)
 
 ![OLED_SSD1306_128x32_breadboard](/OLED_SSD1306_I2C_128x32/0.91_inch_SSD1306_OLED_128x32_Breadboard.png)
 ![OLED_SSD1306_128x32_silkscreen](/OLED_SSD1306_I2C_128x32/0.91_inch_SSD1306_OLED_128x32_silkscreen.png)
