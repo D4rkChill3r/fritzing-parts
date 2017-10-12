@@ -1,8 +1,11 @@
-# esp8266-fritzing-parts
+# fritzing-parts
 
-This repository contains parts based on the ESP8266 for the Fritzing application. Just download the .fzpz file and drag it into fritzing
+This repository contains parts for the Fritzing application. Just download the .fzpz file and drag it into fritzing
 
 Where applicable, both the breadboard and the silkscreen are designed.
+
+This repository started as a fork from [Daniel Eichhorn (Squix78)](https://github.com/squix78), the author of many fine projects like the OLED display library.
+Some of his Fritzing parts, I made improvements on, but I also added some myself. Where I used his Fritzing parts, I left his credentials in the Fritzing parts.
 
 ## Available parts
    * [NodeMCU V1.0](#nodemcu-v10)
