@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.287385"
-     inkscape:cx="50.395774"
-     inkscape:cy="0.021538737"
+     inkscape:zoom="15.225129"
+     inkscape:cx="40.580095"
+     inkscape:cy="17.884874"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,7 +58,7 @@
      id="layer1"
      transform="translate(-6.5526954,-197.38442)">
     <g
-       id="g1033">
+       id="g911">
       <g
          transform="matrix(1.0514903,0,0,1.0514903,0.1703237,-10.23927)"
          id="silkscreen">
@@ -108,9 +108,7 @@
         <g
            id="text1502"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.884565px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04711451"
-           aria-label="GND
-I/O
-VCC">
+           aria-label="GND I/O VCC">
           <path
              id="path831"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.884565px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke-width:0.04711451"
@@ -159,9 +157,9 @@ VCC">
         </g>
       </g>
       <g
-         id="copper0">
+         id="copper1">
         <g
-           id="copper1">
+           id="copper0">
           <path
              inkscape:connector-curvature="0"
              id="path3290"
@@ -178,6 +176,11 @@ VCC">
              id="path3294"
              d="m 18.570254,199.46139 v 1.7852 h 1.785205 v -1.7852 z m 0.892459,0.46244 c 0.238542,0 0.426504,0.18873 0.426504,0.42727 0,0.23855 -0.187963,0.42651 -0.426504,0.42651 -0.238544,0 -0.427271,-0.18796 -0.427271,-0.42651 0,-0.23854 0.188725,-0.42727 0.427271,-0.42727 z"
              style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffbf00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.47560418;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path871"
+             style="fill:none;stroke:#ffbf00;stroke-width:0.47560418;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 20.127175,200.34507 c 0,-0.36706 -0.297564,-0.66463 -0.664626,-0.66463 -0.367064,0 -0.664626,0.29757 -0.664626,0.66463 0,0.36706 0.297562,0.66463 0.664626,0.66463 0.367062,0 0.664626,-0.29757 0.664626,-0.66463 z" />
         </g>
       </g>
     </g>
